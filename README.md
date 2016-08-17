@@ -28,6 +28,7 @@ Submit a PR to contribute!
 - [OSM Tasking Manager](https://github.com/hotosm/osm-tasking-manager2) Divides an area into individual squares that can be rapidly mapped by thousands of volunteers
 - [Ushahidi](https://github.com/ushahidi/platform) Information collection, visualization, communications, and mapping
 - [Crisis-Tracker](https://github.com/JakobRogstadius/CrisisTracker) CrisisTracker is an open-source web platform that extracts situation awareness reports from public tweets during humanitarian disasters. It combines automated processing with crowdsourcing to quickly detect new events and bring structure to millions of updates in real-time.
+- [Dataset: INFORM](http://www.inform-index.org/) A global, open-source risk assessment for humanitarian crises and disasters
 
 ### Activism
 See [https://github.com/drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism)
