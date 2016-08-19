@@ -4,6 +4,7 @@ This excludes libraries or projects that may make developers lives easier, but a
 Submit a PR to contribute!
 
 ### Government
+- [WeVote](https://github.com/wevote/WebApp)
 
 ### Poverty
 
