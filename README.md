@@ -4,7 +4,7 @@ This excludes libraries or projects that may make developers lives easier, but a
 Submit a PR to contribute!
 
 ### Government
-- [WeVote](https://github.com/wevote/WebApp)
+- [WeVote](https://github.com/wevote/WebApp) We Vote's javascript (client-side) mobile website built with React/Flux.
 
 ### Poverty
 
