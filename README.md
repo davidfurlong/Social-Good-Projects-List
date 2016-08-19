@@ -29,6 +29,10 @@ Submit a PR to contribute!
 - [Crisis-Tracker](https://github.com/JakobRogstadius/CrisisTracker) CrisisTracker is an open-source web platform that extracts situation awareness reports from public tweets during humanitarian disasters. It combines automated processing with crowdsourcing to quickly detect new events and bring structure to millions of updates in real-time.
 - [Dataset: INFORM](http://www.inform-index.org/) A global, open-source risk assessment for humanitarian crises and disasters
 
+### Human Trafficking
+
+- [Traffic Report](https://github.com/DBNess/traffic-report) Detects potential human trafficking through analysis of online forum posts
+
 ### Activism
 See [https://github.com/drewrwilson/toolsforactivism](https://github.com/drewrwilson/toolsforactivism)
 
