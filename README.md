@@ -28,6 +28,7 @@ Submit a PR to contribute!
 - [Ushahidi](https://github.com/ushahidi/platform) Information collection, visualization, communications, and mapping
 - [Crisis-Tracker](https://github.com/JakobRogstadius/CrisisTracker) CrisisTracker is an open-source web platform that extracts situation awareness reports from public tweets during humanitarian disasters. It combines automated processing with crowdsourcing to quickly detect new events and bring structure to millions of updates in real-time.
 - [Dataset: INFORM](http://www.inform-index.org/) A global, open-source risk assessment for humanitarian crises and disasters
+- [Crisis Checkin](https://github.com/HTBox/crisischeckin) Crisischeckin Humanitarian Toolbox repository
 
 ### Human Trafficking
 
